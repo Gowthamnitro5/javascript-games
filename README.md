@@ -1,4 +1,4 @@
 # javascript-games
 These repository contains the games mainly build for web games with simple functions
-##Memory Game - Flip Cards
+## Memory Game - Flip Cards
 
